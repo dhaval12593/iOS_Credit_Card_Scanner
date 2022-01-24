@@ -1,5 +1,5 @@
 # iOS Credit Card Scanner
-A utility built on Vision for scanning Credit Card and returning useful information
+A utility built on Vision framework for scanning Credit Card and returning useful information
 
 This was built as a part of hackathon at Expedia over a period of 2 days.
 
